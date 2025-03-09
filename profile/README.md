@@ -17,14 +17,9 @@ Na **GothamAnalytics7**, combinamos **Data Science, Machine Learning e Inteligê
 Utilizamos um conjunto poderoso de ferramentas e frameworks, incluindo:  
 - 🐍 **Python** (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)  
 - 📊 **Data Visualization** (Matplotlib, Seaborn, Plotly, Power BI)  
-- ☁️ **Cloud & Big Data** (AWS, GCP, Azure, Spark)  
-- 🏛 **Banco de Dados** (PostgreSQL, MongoDB, Neo4j)  
-- 🚀 **DevOps & Deployment** (Docker, Kubernetes, CI/CD)  
-
-## 📂 Projetos  
-🔹 **Gotham Crime Analytics** – Detetamos padrões de crime em Gotham com ML.  
-🔹 **Bat-Signal NLP** – Processamento de linguagem natural para analisar mensagens de emergência.  
-🔹 **WayneTech AI** – Modelos de IA inspirados nas tecnologias da Wayne Enterprises.  
+- ☁️ **Cloud & Big Data** (AWS, Azure, Spark)  
+- 🏛 **Bases de Dados** (PostgreSQL, MongoDB)  
+- 🚀 **DevOps & Deployment** (Docker, Kubernetes)  
 
 ## 🦸 Como Contribuir  
 👾 Forka este repositório e junta-te à nossa missão!  
@@ -33,7 +28,9 @@ Utilizamos um conjunto poderoso de ferramentas e frameworks, incluindo:
 3. Envia um **Pull Request** 🚀  
 
 ## 📢 Contacto  
-📧 Email: [gothamanalytics7@gmail.com](mailto:gothamanalytics7@gmail.com)  
+📧 Email: [contact@gothamanalytics7.com](mailto:contact@gothamanalytics7.com)  
+🐦 Twitter: [@GothamAnalytics](https://twitter.com/GothamAnalytics)  
+
 ---
 
 _"A ciência de dados não é quem somos por dentro… é o que fazemos que nos define."_ 🦇  
